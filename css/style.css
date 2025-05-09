@@ -33,7 +33,7 @@ nav.bg-gym{
     width: 100%;
     z-index: 999;
     padding: 20px 0;
-    top: 30px;
+    top: 0;
 }
 
 nav .navbar-brand img{
